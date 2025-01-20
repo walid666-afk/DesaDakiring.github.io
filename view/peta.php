@@ -90,7 +90,7 @@ include 'template/header.php';
         </div>
         <br>
         <center>
-            <h3>Batas-Batas Wilayah Desa Cihonje</h3>
+            <h3>Batas-Batas Wilayah Desa Dakiring</h3>
             <table class="table table-hover table-bordered table-striped text-center">
                 <tr>
                     <td>Utara</td>
