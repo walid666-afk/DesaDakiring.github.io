@@ -76,7 +76,7 @@
                 <div class="col-lg-7 offset-lg-1">
                     <div class="breadcrumb_iner">
                         <div class="breadcrumb_iner_item">
-                            <h2>Selamat Datang Di Website Desa Dakiring</h2>
+                            <h2 style="color: #ffcc00; text-shadow: 2px 2px 4px #000000;">Selamat Datang Di Website Desa Dakiring</h2>
                         </div>
                     </div>
                 </div>
@@ -169,7 +169,7 @@
                         <p>Pembangunan Yang dilakasanakan oleh pemerintah Desa Dakiring.</p>
                     </div>
                 </div>
-                <div class="col-xl-6 col-md-6">
+                <div class="col-xl-8 col-md-6">
                     <div class="project-active owl-carousel">
                         <div class="single-project">
                             <div class="project-thumb">
@@ -202,20 +202,20 @@
     <!-- project-area-end -->
 
     <!-- footer-start -->
-    <footer class="footer-area bg-dark">
+    <footer class="footer-area" style="background-color: #222; color: #ffcc00;">
         <div class="container">
             <div class="row justify-content-between">
                 <div class="col-sm-6 col-md-3 col-xl-4">
                     <div class="single-footer-widget footer_1">
                         <a href="index.html"> <img src="img/logo.png" alt="" width="50rem"> </a>
-                        <p  class="text-white">Kantor Desa Dakiring <br>
+                        <p>Kantor Desa Dakiring <br>
                             Jl.Kiayi Marhaban, Dusun Gendut, Kec. Socah, Kab. Bangkalan,Jawa Timur. <br>69161
                         </p>
                         <div class="social-links">
                             <ul>
-                                <li><a href="#"> <i class="fa fa-facebook"></i> </a></li>
-                                <li><a href="#"> <i class="fa fa-twitter"></i> </a></li>
-                                <li><a href="#"> <i class="fa fa-linkedin"></i> </a></li>
+                                <li><a href="#" style="color: #ffcc00;"> <i class="fa fa-facebook"></i> </a></li>
+                                <li><a href="#" style="color: #ffcc00;"> <i class="fa fa-twitter"></i> </a></li>
+                                <li><a href="#" style="color: #ffcc00;"> <i class="fa fa-linkedin"></i> </a></li>
                             </ul>
                         </div>
                     </div>
@@ -235,19 +235,10 @@
                 </div>
             </div>
             <center>
-                <small>Copyright by Desa Dakiring &copy;2025 | KKN Kelompok 15</small>
+                <small style="color: #ffcc00;">Copyright by Desa Dakiring &copy;2025 | <b>KKN Kelompok 15</b></small>
             </center>
         </div>
-        <!-- <div id="close">
-            <div class="container-popup">
-                <form action="#" method="post" class="popup-form">
-                    <img src="img/pop up/pop1.jpg">
-                    <h3>Selamat Tahun Baru 2025</h3>
-                    <p>Di masa sekarang untuk menjadi pahlawan tidak perlu mengangkat senjata, cukup memiliki kepedulian terhadap sesama untuk terus berjuang melalui masa sulit ini, bersatu seperti perjuangan para pahlawan Indonesia untuk mencapai kemerdekaan. Selamat Hari Pahlawan Nasional.</p>
-                </form>
-                <a class="close" href="#close">X</a>
-            </div>
-        </div> -->
+        
     </footer>
     <style type="text/css">
     body{
@@ -310,36 +301,4 @@
         color:#fff;
     }
     </style>
-    <!-- footer-end -->
-
-    <!-- JS here -->
-    <script src="js/vendor/modernizr-3.5.0.min.js"></script>
-    <script src="js/vendor/jquery-1.12.4.min.js"></script>
-    <script src="js/popper.min.js"></script>
-    <script src="js/bootstrap.min.js"></script>
-    <script src="js/owl.carousel.min.js"></script>
-    <script src="js/isotope.pkgd.min.js"></script>
-    <script src="js/ajax-form.js"></script>
-    <script src="js/waypoints.min.js"></script>
-    <script src="js/jquery.counterup.min.js"></script>
-    <script src="js/imagesloaded.pkgd.min.js"></script>
-    <script src="js/scrollIt.js"></script>
-    <script src="js/jquery.scrollUp.min.js"></script>
-    <script src="js/wow.min.js"></script>
-    <script src="js/nice-select.min.js"></script>
-    <script src="js/jquery.slicknav.min.js"></script>
-    <script src="js/jquery.magnific-popup.min.js"></script>
-    <script src="js/plugins.js"></script>
-
-    <!--contact js-->
-    <script src="js/contact.js"></script>
-    <script src="js/jquery.ajaxchimp.min.js"></script>
-    <script src="js/jquery.form.js"></script>
-    <script src="js/jquery.validate.min.js"></script>
-    <script src="js/mail-script.js"></script>
-
-    <script src="js/main.js"></script>
-
-</body>
-
-</html>
+    <!-- footer
