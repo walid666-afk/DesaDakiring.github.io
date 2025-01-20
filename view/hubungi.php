@@ -121,20 +121,20 @@ include '../db/connection.php';
     <!-- ================ contact section end ================= -->
     
     <!-- footer-start -->
-    <footer class="footer-area bg-dark">
+    <footer class="footer-area" style="background-color: #222; color: #ffcc00;">
         <div class="container">
             <div class="row justify-content-between">
                 <div class="col-sm-6 col-md-3 col-xl-4">
                     <div class="single-footer-widget footer_1">
-                        <a href="index.html"> <img src="../img/logo.png" alt="" width="50rem"> </a>
-                        <p  class="text-white">Kantor Desa Dakiring <br>
+                        <a href="index.html"> <img src="img/logo.png" alt="" width="50rem"> </a>
+                        <p>Kantor Desa Dakiring <br>
                             Jl.Kiayi Marhaban, Dusun Gendut, Kec. Socah, Kab. Bangkalan,Jawa Timur. <br>69161
                         </p>
                         <div class="social-links">
                             <ul>
-                                <li><a href="#"> <i class="fa fa-facebook"></i> </a></li>
-                                <li><a href="#"> <i class="fa fa-twitter"></i> </a></li>
-                                <li><a href="#"> <i class="fa fa-linkedin"></i> </a></li>
+                                <li><a href="#" style="color: #ffcc00;"> <i class="fa fa-facebook"></i> </a></li>
+                                <li><a href="#" style="color: #ffcc00;"> <i class="fa fa-twitter"></i> </a></li>
+                                <li><a href="#" style="color: #ffcc00;"> <i class="fa fa-linkedin"></i> </a></li>
                             </ul>
                         </div>
                     </div>
@@ -146,19 +146,18 @@ include '../db/connection.php';
                                 <li>
                                     <strong>Indonesia</strong>
                                     <strong>Jawa Timur,Indonesia <br>
-                                        +62 123456789</strong>
+                                        +62 12345678</strong>
                                 </li>
                             </ul>
                         </div>
                     </div>
                 </div>
             </div>
-        </div>
-        <div class="container-fluid">
             <center>
-                <small>Copyright by Desa Dakiring &copy;2025 | KKN Kelompok 15</small>
+                <small style="color: #ffcc00;">Copyright by Desa Dakiring &copy;2025 | <b>KKN Kelompok 15</b></small>
             </center>
         </div>
+        
     </footer>
         <?php 
         include 'template/footer.php';
